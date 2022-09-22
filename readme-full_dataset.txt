@@ -1,3 +1,5 @@
+- Link to download the dataset, provided below
+
 - all the images from each location are seperated into animal's in that location, empty images in that location. 
 - 70% empty images, 30% animal images
 
