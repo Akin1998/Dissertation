@@ -6,3 +6,6 @@
 Note: all these images are manually classified. although checked multiple times, there is a chance that some empty images might be present in animal and vice versa
 
 Humans might also be included in some of the Images
+
+
+link - https://drive.google.com/drive/folders/1WgtaHHHyc4jK-KKjRzj9AqG9UEGgU3yM?usp=sharing
